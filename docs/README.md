@@ -12,6 +12,7 @@ Documentação oficial da pesquisa de Windows ARM nativo no Samsung Galaxy S23.
 6. [Windows ARM](06-windows-arm/)
 7. [Testes](07-testes/)
 8. [Relatórios](08-relatorios/)
+9. [Ferramentas de desenvolvimento](09-ferramentas-de-desenvolvimento/)
 
 ## Regras de documentação
 
